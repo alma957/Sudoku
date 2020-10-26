@@ -1,0 +1,16 @@
+Summarise your findings here (see specification).
+
+'mystery2.dat' is impossible to solve.
+
+'mystery1.dat' is the extremely difficult one as it takes 421546 recursive calls
+before reaching to a solution while it takes 14133 recursive calls to reach a 
+solution for mystery3.dat.
+
+to sum up:
+
+'mystery1.dat' is extremely  hard to solve;
+'mystery2.dat' is impossible to solve;
+'mystery3.dat' is  hard to solve;
+
+
+
